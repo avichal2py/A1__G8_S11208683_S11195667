@@ -6,3 +6,5 @@ Or run the CalcInterest by inserting parameters vaild for Home and Property Crit
 
 The test cases have been Identified by 3 value Boundary Value Analysis and Equivalence Partitioning.
 Question 1 covered for CS341 Assignment 1.
+
+By Aayush Kumar and Kavishek Kumar
